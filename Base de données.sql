@@ -14,9 +14,8 @@ nom varchar(20) not null,
 prénom varchar(20) not null);
 
 insert into Citoyen values
-(14035157,"Zouari","Adem"),(14034332,"Mallek","Nour"),(07159487,"Zouari","Saloua"),
-(06987615,"Zouari","Ahmed"),(09987654,"Zouari","Walid"),(06854159,"Mallek","Abdeljlil"),
-(07051234,"Mallek","Awatef"),(03159265,"Zouari","Ali"),(04159486,"Zouari","Mohamed"),
+(14035157,"Zouari","Adem"),(07159487,"Zouari","Saloua"),(06987615,"Zouari","Ahmed"),
+(09987654,"Zouari","Walid"),(03159265,"Zouari","Ali"),(04159486,"Zouari","Mohamed"),
 (03987651,"Zouari","Zakia"),(023112654,"Zouari","Salma"),(001159487,"Zouari","Salem"),
 (0012894561,"Zouari","Salma");
 
@@ -36,7 +35,6 @@ insert into Naissance values
 ("Zouari","Adem",'2003-01-05',"Tunis",06987615,07159487,10,3),
 ("Zouari","Walid",'1989-08-02',"Tunis",06987615,07159487,16,0),
 ("Zouari","Mohamed Ali",'2007-06-07',"Moknine",06987615,07159487,8,0),
-("Mallek","Nour",'2003-01-01',"Ksar hellal",06854159,07051234,10,1),
 ("Zouari","Saloua",'1963-06-06',"Moknine",04159486,03987651,20,1),
 ("Zouari","Ahmed",'1960-05-06',"Moknine",03159265,023112654,30,0),
 ("Bourguiba","Salem",'1905-01-07',"Moknine",0,0,30,0),
