@@ -12,13 +12,13 @@ This project facilitates the efficient management of civil status records, inclu
 -User-friendly graphical interfaces for ease of use.
 -Secure login and access control.
 
-## User Roles:
-### Simple Users:
+## User Roles
+### Simple Users
 
 -Access to view birth and death certificates.
 
 -Can search and view details of the records.
-### Admins:
+### Admins
 
 -Access to view birth and death certificates.
 
@@ -28,7 +28,7 @@ This project facilitates the efficient management of civil status records, inclu
 
 -Need to enter their ID number and password for authentication.
 
-### Super Admins:
+### Super Admins
 
 -Access to view birth and death certificates.
 
@@ -42,7 +42,7 @@ This project facilitates the efficient management of civil status records, inclu
 
 -Can add and remove admins and change their passwords.
 
-## Deployment:
+## Deployment
 ### Set Up Database
 
 -Run the provided PL/SQL script to create tables, procedures, and functions.
