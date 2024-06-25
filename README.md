@@ -4,9 +4,10 @@ This project facilitates the efficient management of civil status records, inclu
 
 ## Project Description
 ### Languages
-Java for the application and PL/SQL for the database management.
+-Java for the application.
+-PL/SQL for the database management.
 ### Purpose
-To manage civil status records such as birth and death certificates efficiently.
+-To manage civil status records such as birth and death certificates efficiently.
 ### Features
 -User-friendly graphical interfaces for ease of use.
 -Secure login and access control.
