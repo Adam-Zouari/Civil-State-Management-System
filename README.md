@@ -16,21 +16,32 @@ This project facilitates the efficient management of civil status records, inclu
 ### Simple Users:
 
 -Access to view birth and death certificates.
+
 -Can search and view details of the records.
 ### Admins:
 
 -Access to view birth and death certificates.
+
 -Can search and view details of the records.
+
 -Can add birth and death certificates.
+
 -Need to enter their ID number and password for authentication.
+
 ### Super Admins:
 
 -Access to view birth and death certificates.
+
 -Can search and view details of the records.
+
 -Can add birth and death certificates.
+
 -Need to enter their ID number and password for authentication.
+
 -Full administrative access including managing admins.
+
 -Can add and remove admins and change their passwords.
+
 ## Deployment:
 ### Set Up Database
 
