@@ -11,6 +11,7 @@ This project facilitates the efficient management of civil status records, inclu
 -To manage civil status records such as birth and death certificates efficiently.
 ### Features
 -User-friendly graphical interfaces for ease of use.
+
 -Secure login and access control.
 
 ## User Roles
